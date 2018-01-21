@@ -6,13 +6,15 @@ Instructions to run on local machines-:
 4. Install postcress
 5. Open terminal
 6. Navigate to unzipped project folder
+
 7. Run the following commands-:
-a.  rails db:reset
-b.  rails db:drop
-c.  rails db:create
-d. rails db:migrate
-e. rails db:seed
-f. rails s
+
+1.  rails db:reset
+8.  rails db:drop
+9.  rails db:create
+10. rails db:migrate
+11. rails db:seed
+12. rails s
 
 -open google chrome for best results and the url is localhost:3000
 THE INSTRUCTIONS BELOW ARE APPLICABLE TO BOTH LIVE AND LOCLALLY HOSTED VLEARN PLATFORM
