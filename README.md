@@ -7,12 +7,12 @@ Instructions to run on local machines-:
 5. Open terminal
 6. Navigate to unzipped project folder
 7. Run the following commands-:
-rails db:reset
-rails db:drop
-rails db:create
-rails db:migrate
-rails db:seed
-rails s
+1. rails db:reset
+2. rails db:drop
+3. rails db:create
+4. rails db:migrate
+5. rails db:seed
+6. rails s
 open google chrome for best results and the url is localhost:3000
 THE INSTRUCTIONS BELOW ARE APPLICABLE TO BOTH LIVE AND LOCLALLY HOSTED VLEARN PLATFORM
 Login crededntials-: superadmin credentials-:
