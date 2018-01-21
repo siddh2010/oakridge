@@ -16,14 +16,21 @@ Instructions to run on local machines-:
 11. rails db:seed
 12. rails s
 
--open google chrome for best results and the url is localhost:3000
-THE INSTRUCTIONS BELOW ARE APPLICABLE TO BOTH LIVE AND LOCLALLY HOSTED VLEARN PLATFORM
-Login crededntials-: superadmin credentials-:
-email- admin@admin.com    password- password
-organization admin-:   email- org@admin.com      password- password
-to sign in as a tutor, click login on home page and at bottom of page click sign  in with googleoauth2 (ENSURE THAT LIVE LINK HAS HTTPS)
+    open google chrome for best results and the url is localhost:3000
+
+   THE INSTRUCTIONS BELOW ARE APPLICABLE TO BOTH LIVE AND LOCLALLY HOSTED VLEARN PLATFORM
+
+       Login crededntials-: superadmin credentials-:
+
+         email- admin@admin.com    password- password
+
+      organization admin-:   email- org@admin.com      password- password
+
+           to sign in as a tutor, click login on home page and at bottom of page click sign  in with googleoauth2 (ENSURE THAT LIVE LINK HAS HTTPS)
+
 
 How to add learners as an NGO/school-:
+
 1. Using the organization admin login credentials, log in to vlearn
 2.Click on enrolled users in the right corner
 3. Click new learner
